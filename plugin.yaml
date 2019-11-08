@@ -1,0 +1,6 @@
+plugin:
+    name: 'enovision.markdownnotices::lang.plugin.name'
+    description: 'enovision.markdownnotices::lang.plugin.description'
+    author: Enovision
+    icon: oc-icon-exclamation
+    homepage: ''
